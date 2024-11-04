@@ -3,3 +3,4 @@ SpeechRecognition
 nltk
 pyttsx3
 tensorflow
+streamlit
