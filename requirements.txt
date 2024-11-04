@@ -1,6 +1,5 @@
-pydub
 streamlit== 1.38.0
-speechrecognition
+speechrecognition== 3.11.0
 # pyaudio is needed only if you can install it
 pyaudio== 0.2.14
 nltk
