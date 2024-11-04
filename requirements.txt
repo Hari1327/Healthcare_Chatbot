@@ -4,6 +4,6 @@ speechrecognition
 # pyaudio is needed only if you can install it
 pyaudio
 nltk
-pyttsx3
+pyttsx3== 2.98
 tensorflow
 streamlit
