@@ -1,5 +1,6 @@
 pydub
-SpeechRecognition
+speechrecognition
+pyaudio
 nltk
 pyttsx3
 tensorflow
