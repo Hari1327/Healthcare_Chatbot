@@ -2,7 +2,7 @@ pydub
 streamlit== 1.38.0
 speechrecognition
 # pyaudio is needed only if you can install it
-pyaudio
+pyaudio== 0.2.14
 nltk
 pyttsx3== 2.98
 tensorflow
