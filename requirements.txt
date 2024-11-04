@@ -1,5 +1,5 @@
 pydub
-streamlit
+streamlit== 1.38.0
 speechrecognition
 # pyaudio is needed only if you can install it
 pyaudio
