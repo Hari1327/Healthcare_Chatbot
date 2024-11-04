@@ -1,4 +1,4 @@
-pyaudio
+pydub
 SpeechRecognition
 nltk
 pyttsx3
