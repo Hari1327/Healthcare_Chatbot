@@ -7,3 +7,4 @@ nltk
 pyttsx3== 2.98
 tensorflow
 streamlit
+--upgrade pip
